@@ -150,11 +150,11 @@ A grid can still be used to organize the page, but individual elements do not ne
 
 ## Real-World Examples
 
-### Carlton Bookcase — Ettore Sottsass
+### Carlton Bookcase - Ettore Sottsass
 
 The Carlton bookcase was designed by Ettore Sottsass for the Memphis group in 1981. It combines shelves, geometric forms, diagonal elements, and bright colors. Its unusual appearance challenges the traditional idea of what a bookcase should look like.
 
-### Super Lamp — Martine Bedin
+### Super Lamp - Martine Bedin
 
 Martine Bedin designed the Super Lamp in 1981 for the Memphis group. Its colorful and playful appearance demonstrates how Memphis designers transformed ordinary household objects into expressive designs.
 
@@ -172,10 +172,10 @@ The style demonstrates a major Postmodernist idea: design can communicate person
 
 ## Sources
 
-- [Design Museum — Memphis](https://designmuseum.org/memphis)
-- [The Metropolitan Museum of Art — Design, 1975–2000](https://www.metmuseum.org/essays/design-1975-present)
-- [Victoria and Albert Museum — Postmodern Design](https://www.vam.ac.uk/info/collection-selection-boxes-postmodern-design)
-- [Victoria and Albert Museum — Postmodernism Teacher Resource](https://www.vam.ac.uk/__data/assets/pdf_file/0010/179488/teachers_resource_postmodernism.pdf)
+- [Design Museum - Memphis](https://designmuseum.org/memphis)
+- [The Metropolitan Museum of Art - Design, 1975-2000](https://www.metmuseum.org/essays/design-1975-present)
+- [Victoria and Albert Museum - Postmodern Design](https://www.vam.ac.uk/info/collection-selection-boxes-postmodern-design)
+- [Victoria and Albert Museum - Postmodernism Teacher Resource](https://www.vam.ac.uk/__data/assets/pdf_file/0010/179488/teachers_resource_postmodernism.pdf)
 
 ## Image Credits
 
